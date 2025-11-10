@@ -6,5 +6,6 @@ int main() {
     int b  =20;
     int c  =20;
     int k = 10;
+    int l = 20;
     return 0;
 }
